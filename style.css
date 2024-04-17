@@ -1,0 +1,28 @@
+:root{
+    --branco-principal-color : white;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    background-image: url(transferir\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header{
+    color:  var(--branco-principal-color);
+    text-align: center;
+    margin-top: 150px;
+}
+.conteudo{
+    color:  var(--branco-principal-color);
+    text-align: center;
+    margin-top: 100px;
+}
+
+
